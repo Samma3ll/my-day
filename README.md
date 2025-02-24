@@ -7,4 +7,6 @@
 
 -[ ] ai to summarize the day
 
-- [] what did I learn today? 
+-[] what did I learn today? 
+
+[] tui interface
