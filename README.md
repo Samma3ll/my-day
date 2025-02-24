@@ -6,3 +6,5 @@
 -[ ] option to upload photo's
 
 -[ ] ai to summarize the day
+
+-[] what did I learn today? 
